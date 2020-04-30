@@ -1,0 +1,7 @@
+Colors:
+
+Platinum background: #E4DEE4
+Dark slate gray: #315659
+Ucla blue: #577399
+Black leather jacket: #253031
+White smoke: #E4DEE4
